@@ -1,0 +1,14 @@
+
+html, body, #root, #root>div {
+  height: 100%
+}
+
+body {
+  background-image: url(./data/Images/Main/AuthBg1.1.png);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
